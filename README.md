@@ -1,3 +1,3 @@
-## Thesis slides, figures and text
+## Thesis
 
 Recording thesis figures, slides and text. 
