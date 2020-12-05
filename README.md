@@ -1,3 +1,3 @@
-#### Thesis Slides, figures and text
+#### Thesis slides, figures and text
 
-Tracking any thesis figures, slide-sets and overleaf thesis text. 
+Recording thesis figures, slides and text. 
